@@ -18,6 +18,9 @@ To provide a detailed analysis of the population composition, population distrib
 # 2.Population structure analysis:
 - Population pyramid maps for the North, East, Central-Western, and Tainan City.
 
+![image](Population_Structure.png)
+- 2021 Population Pyramid Charts for Northern District, Eastern District, West Central District, and Tainan City.
+
 # 3.Population indicator analysis:
 - Histogram matrix of population indicators for Tainan City;
 - Support ratio maps for Tainan City and the study area;
