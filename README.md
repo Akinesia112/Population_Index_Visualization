@@ -10,6 +10,10 @@ To provide a detailed analysis of the population composition, population distrib
 - Line chart showing the average population density per village in each district of Tainan City.
 
 ![image](Line_Chart_Average_population_density.png)
+- The line chart of the average population density of villages in various districts of Tainan City in the year 2021.
+
+![image](number_of_villages.png)
+- The distribution of the number of villages in each district of Tainan City  in the year 2021.
 
 # 2.Population structure analysis:
 - Population pyramid maps for the North, East, Central-Western, and Tainan City.
