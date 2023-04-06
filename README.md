@@ -16,25 +16,25 @@ To provide a detailed analysis of the population composition, population distrib
 - The distribution of the number of villages in each district of Tainan City  in the year 2021.
 
 # 2.Population structure analysis:
-- Population pyramid maps for the North, East, Central-Western, and Tainan City.
+- Population pyramid for the North, East, Central-Western, and Tainan City.
 
-![image](Population_Structure.png)
+![image](Population_pyramid.png)
 - 2021 Population Pyramid Charts for Northern District, Eastern District, West Central District, and Tainan City.
 
 # 3.Population indicator analysis:
 - Histogram matrix of population indicators for Tainan City;
-- Support ratio maps for Tainan City and the study area;
-- Gender ratio map for each village;
-- Natural increase rate maps for each district in Tainan City;
-- Birth rate, death rate, marriage rate, and divorce rate maps for each district in Tainan City;
-- Social increase rate maps for each district in Tainan City;
-- Inflow and outflow maps for Tainan City and the study area, including the number of residents moving in and out of the city from other counties and the city itself;
-- Doctoral and master's degree population maps for Tainan City and the study area.
+- Support ratio for Tainan City and the study area;
+- Gender ratio for each village;
+- Natural increase rate for each district in Tainan City;
+- Birth rate, death rate, marriage rate, and divorce rate for each district in Tainan City;
+- Social increase rate for each district in Tainan City;
+- Inflow and outflow for Tainan City and the study area, including the number of residents moving in and out of the city from other counties and the city itself;
+- Doctoral and master's degree population for Tainan City and the study area.
 
 # 4.Population cross-analysis:
 - 3D scatter plot and correlation matrix of population indicators for each village in Tainan City;
 - Regression and scatter plots of population indicators for each village;
-- Two-dimensional abnormal value detection maps of population indicators for each village;
-- Parallel coordinate maps of population indicators for each village.
+- Two-dimensional abnormal value detection of population indicators for each village;
+- Parallel coordinate of population indicators for each village.
 
 
