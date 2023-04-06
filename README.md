@@ -9,6 +9,8 @@ To provide a detailed analysis of the population composition, population distrib
 - Population distribution and density maps for each district in the study area;
 - Line chart showing the average population density per village in each district of Tainan City.
 
+![image](Line_Chart_Average_population_density.png)
+
 # 2.Population structure analysis:
 - Population pyramid maps for the North, East, Central-Western, and Tainan City.
 
