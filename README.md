@@ -1,6 +1,6 @@
 # Population_Index_Visualization
 
-This research explores population phenomena in the North, West Central, and Eastern districts surrounding the National Cheng Kung University campus in Tainan City. Data for this study was obtained from various sources, including the government open data platform, Tainan City Civil Affairs Bureau, Social and Economic Data Service Platform, Tainan City Central-Western Household Registration Office, Tainan City Northern Household Registration Office, and Tainan City Eastern Household Registration Office. The GIS (version 3.16) and Excel (version 16.60) were used to process the data, and statistical data processing and visualization were conducted using Google Colab (Python 3.7.13).
+This research explores population phenomena in the North, West Central, and East districts surrounding the National Cheng Kung University campus in Tainan City. Data for this study was obtained from various sources, including the government open data platform, Tainan City Civil Affairs Bureau, Social and Economic Data Service Platform, Tainan City Central-Western Household Registration Office, Tainan City Northern Household Registration Office, and Tainan City Eastern Household Registration Office. The GIS (version 3.16) and Excel (version 16.60) were used to process the data, and statistical data processing and visualization were conducted using Google Colab (Python 3.7.13).
 
 To provide a detailed analysis of the population composition, population distribution, density maps, and various population indicators, the study used village boundaries as spatial units for analysis and combined them with district boundaries for a comprehensive overview. Based on the 110-year data, the following map data processing was completed:
 
@@ -19,7 +19,7 @@ To provide a detailed analysis of the population composition, population distrib
 - Population pyramid for the North, East, Central-Western, and Tainan City.
 
 ![image](Population_pyramid.png)
-- 2021 Population Pyramid Charts for Northern District, Eastern District, West Central District, and Tainan City.
+- 2021 Population Pyramid Charts for North District, East District, West Central District, and Tainan City.
 
 # 3.Population indicator analysis:
 - Histogram matrix of population indicators for Tainan City;
