@@ -20,17 +20,18 @@ To provide a detailed analysis of the population composition, population distrib
 - 2021 Population Pyramid Charts for North District, East District, West Central District, and Tainan City.
 
 # 3.Population indicator analysis:
-
-![image](Histogram_matrix_population_indicators.png)
-
-- Histogram matrix of population indicators for Tainan City.
-- Support ratio for Tainan City and the study area.
 - Gender ratio for each village.
 - Natural increase rate for each district in Tainan City.
 - Birth rate, death rate, marriage rate, and divorce rate for each district in Tainan City.
 - Social increase rate for each district in Tainan City.
-- Inflow and outflow for Tainan City and the study area, including the number of residents moving in and out of the city from other counties and the city itself.
 - Doctoral and master's degree population for Tainan City and the study area.
+- Inflow and outflow for Tainan City and the study area, including the number of residents moving in and out of the city from other counties and the city itself.
+
+![image](Histogram_matrix_population_indicators.png)
+- Histogram matrix of population indicators for Tainan City.
+
+![image](Histograms.png)
+- Histogram of the number of households, elderly index, and dependency ratio by district in Tainan City in 2021.
 
 # 4.Population cross-analysis:
 - 3D scatter plot and correlation matrix of population indicators for each village in Tainan City.
