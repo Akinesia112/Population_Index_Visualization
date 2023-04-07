@@ -35,6 +35,10 @@ To provide a detailed analysis of the population composition, population distrib
 
 # 4.Population cross-analysis:
 - 3D scatter plot and correlation matrix of population indicators for each village in Tainan City.
+
+![image](3D_scatter.png)
+
+- 3D scatter plot of demographic indicators (dependency ratio of children, dependency ratio of elderly, aging index, and population density) for each neighborhood in Tainan City.
 - Regression and scatter plots of population indicators for each village.
 - Two-dimensional abnormal value detection of population indicators for each village.
 - Parallel coordinate of population indicators for each village.
