@@ -34,7 +34,10 @@ To provide a detailed analysis of the population composition, population distrib
 - Histogram of the number of households, elderly index, and dependency ratio by district in Tainan City in 2021.
 
 # 4.Population cross-analysis:
-- 3D scatter plot and correlation matrix of population indicators for each village in Tainan City.
+
+![image](Correlation_matrix.png)
+
+- Correlation matrix of population indicators for each village in Tainan City.
 
 ![image](3D_scatter.png)
 
