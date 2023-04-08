@@ -42,6 +42,9 @@ To provide a detailed analysis of the population composition, population distrib
 ![image](3D_scatter.png)
 
 - 3D scatter plot of demographic indicators (dependency ratio of children, dependency ratio of elderly, aging index, and population density) for each neighborhood in Tainan City.
+
+![image](Regressions.png)
+
 - Regression and scatter plots of population indicators for each village.
 - Two-dimensional abnormal value detection of population indicators for each village.
 - Parallel coordinate of population indicators for each village.
