@@ -46,7 +46,13 @@ To provide a detailed analysis of the population composition, population distrib
 ![image](Regressions.png)
 
 - Regression and scatter plots of population indicators for each village.
-- Two-dimensional abnormal value detection of population indicators for each village.
+
+![image](outliers.png)
+
+- Two-dimensional outliers detection of population indicators for each village.
+
+![image](Parallel_coordinate.png)
+
 - Parallel coordinate of population indicators for each village.
 
 
