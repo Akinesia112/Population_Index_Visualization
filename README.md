@@ -49,7 +49,7 @@ To provide a detailed analysis of the population composition, population distrib
 
 ![image](outliers.png)
 
-- Two-dimensional outliers detection of population indicators for each village.
+- Two-dimensional outliers detection of population indicators for each village(Red oval represents the range of confidence interval).
 
 ![image](Parallel_coordinate.png)
 
